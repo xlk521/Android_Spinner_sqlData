@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World, Activity01!</string>
+	<string name="app_name">xh_spinner_test</string>
+	<string name="ys">您的爱好</string>
+	<string name="lq">篮球</string>
+	<string name="zp">请选择</string>
+	<string name="pq">排球</string>
+	<string name="toast_http_error">toast_http_error</string>
+
+</resources>
